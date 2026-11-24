@@ -1,0 +1,168 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Get Involved | The Wordbridge Foundation</title>
+
+    <meta name="description" content="Discover opportunities to join and collaborate with The Wordbridge Foundation.">
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header>
+    <nav class="navbar">
+        <a href="index.html" class="logo">
+            the wordbridge foundation<span>.</span>
+        </a>
+
+        <div class="nav-links">
+            <a href="index.html">Home</a>
+            <a href="about.html">About Us</a>
+            <a href="work.html">Our Work</a>
+            <a href="library.html">Learning Library</a>
+            <a href="get-involved.html">Get Involved</a>
+            <a href="contact.html">Contact</a>
+        </div>
+    </nav>
+</header>
+
+<main>
+
+    <section class="hero">
+        <p class="eyebrow">BE PART OF OUR JOURNEY</p>
+
+        <h1>Make a difference through learning.</h1>
+
+        <p>
+            Meaningful educational initiatives grow through
+            collaboration, shared ideas, and people who care
+            about making learning more accessible.
+        </p>
+
+        <a
+            href="https://docs.google.com/forms/d/e/1FAIpQLSdffxN7SCBbrsL0EdyNR5KtEQxUPDeNFtAPepD96zf4FHwZrw/viewform"
+            class="button"
+            target="_blank"
+            rel="noopener noreferrer"
+        >
+            Apply to Join Our Team
+        </a>
+    </section>
+
+    <section class="intro">
+        <p class="eyebrow">GET INVOLVED</p>
+
+        <h2>There is a place for your ideas.</h2>
+
+        <p>
+            The Wordbridge Foundation welcomes individuals
+            interested in literacy, education, research,
+            communication, and community engagement.
+            Explore ways to become part of our initiative.
+        </p>
+    </section>
+
+    <section class="focus">
+
+        <div class="focus-grid">
+
+            <article class="focus-card">
+                <span>01</span>
+                <h3>Join Our Team</h3>
+
+                <p>
+                    Interested in contributing your skills
+                    and ideas? Explore opportunities to become
+                    part of our growing team.
+                </p>
+
+                <a
+                    href="https://docs.google.com/forms/d/e/1FAIpQLSdffxN7SCBbrsL0EdyNR5KtEQxUPDeNFtAPepD96zf4FHwZrw/viewform"
+                    class="text-link"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                >
+                    Complete the Application →
+                </a>
+            </article>
+
+            <article class="focus-card">
+                <span>02</span>
+                <h3>Support Our Resources</h3>
+
+                <p>
+                    Help our educational materials reach
+                    more readers by sharing our free
+                    publications with your community.
+                </p>
+
+                <a href="library.html" class="text-link">
+                    Explore Our Library →
+                </a>
+            </article>
+
+            <article class="focus-card">
+                <span>03</span>
+                <h3>Collaborate With Us</h3>
+
+                <p>
+                    We welcome opportunities to connect
+                    with educators, schools, libraries,
+                    and organizations interested in literacy.
+                </p>
+
+                <a href="contact.html" class="text-link">
+                    Contact Us →
+                </a>
+            </article>
+
+        </div>
+
+    </section>
+
+    <section class="featured">
+        <p class="eyebrow">START SOMETHING MEANINGFUL</p>
+
+        <h2>We'd love to hear from you.</h2>
+
+        <p>
+            Whether you want to contribute, collaborate,
+            or learn more about our work, we invite you
+            to take the first step.
+        </p>
+
+        <a
+            href="https://docs.google.com/forms/d/e/1FAIpQLSdffxN7SCBbrsL0EdyNR5KtEQxUPDeNFtAPepD96zf4FHwZrw/viewform"
+            class="button"
+            target="_blank"
+            rel="noopener noreferrer"
+        >
+            Join The Wordbridge Foundation
+        </a>
+    </section>
+
+</main>
+
+<footer>
+    <h2>The Wordbridge Foundation</h2>
+
+    <p>Building bridges through literacy and education.</p>
+
+    <div class="footer-links">
+        <a href="index.html">Home</a>
+        <a href="about.html">About Us</a>
+        <a href="work.html">Our Work</a>
+        <a href="library.html">Learning Library</a>
+        <a href="contact.html">Contact</a>
+    </div>
+
+    <p>© 2026 The Wordbridge Foundation.</p>
+</footer>
+
+</body>
+</html>
